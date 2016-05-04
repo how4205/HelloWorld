@@ -1,4 +1,5 @@
 <?
 echo "Hi\n";
-echo "How are you";
+echo "How are you\n";
+echo "Git test";
 ?>
