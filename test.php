@@ -1,3 +1,4 @@
 <?
-echo "Hi";
+echo "Hi\n";
+echo "How are you";
 ?>
